@@ -1,0 +1,21 @@
+title: "Kling 4.0（可灵 4.0）怎么用？上线时间、Flash 版、价格与提示词全攻略"
+description: "Kling 4.0（可灵 4.0）10 月上线，Flash 版已开放抢先体验。一文读懂可灵 4.0 新功能、上线时间、价格、使用教程与提示词写法。"
+url: "https://xianyu110.github.io"
+baseurl: "/kling-4-guide"
+lang: zh-CN
+locale: zh_CN
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: Maynor
+  url: https://github.com/xianyu110
+twitter:
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://upload.maynor1024.live/file/1791253853997_kling4-promo-title.jpg
